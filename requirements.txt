@@ -1,0 +1,17 @@
+# Hollow Knight Save Editor - 依赖文件
+# 安装命令: pip install -r requirements.txt
+
+# 核心加密库（必需）
+cryptography>=3.4.8
+
+# GUI支持（可选，用于图形界面）
+# 通常随Python自带，但如果缺失需要系统安装
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Windows/macOS: 通常已包含
+
+# Web界面支持（可选，用于Web模式）
+flask>=2.0.0
+flask-cors>=3.0.0
+
+# 可选：更好的终端体验（CLI颜色支持）
+colorama>=0.4.4; platform_system=="Windows"

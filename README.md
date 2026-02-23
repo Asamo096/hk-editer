@@ -63,3 +63,16 @@ python hk.py user1.dat --preset geo     # 仅满金钱
 python hk.py user1.dat --preset health  # 仅满血量
 python hk.py user1.dat --preset skills  # 仅解锁全技能
 ```
+
+
+# hk-editer License
+
+基于 Parity Public License 7.0.0，附加以下条款：
+
+## 禁止商业使用
+
+禁止将此软件或其衍生作品用于任何商业目的，包括但不限于：
+- 销售、租赁、许可收费
+- 作为商业服务的一部分运营
+- 用于商业广告或营销
+- 直接或间接产生收入
